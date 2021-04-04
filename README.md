@@ -18,8 +18,24 @@ Grading for Canvas contains more features like:
 11. User can add profile picture and edit their profile through edit profile.
 12. User can also change their password if necessary.
 
+**REQUIREMENTS**
 
+beautifulsoup4==4.9.1
+cffi==1.14.0
+Django==2.2.12
+django-bootstrap4==1.1.1
+django-misaka==0.2.1
+houdini.py==0.1.0
+misaka==2.1.1
+pycparser==2.20
+Pygments==2.6.1
+pytz==2020.1
+soupsieve==2.0.1
+sqlparse==0.3.1
+sqlalchemy
+numpy
+pandas
+django-import-export
 
-
-
-
+**HOW TO RUN**
+run _python manage.py runserver_ on terminal in the roject location
