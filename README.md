@@ -38,4 +38,5 @@ pandas
 django-import-export
 
 **HOW TO RUN**
+
 run _python manage.py runserver_ on terminal in the roject location
